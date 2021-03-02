@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-pg"]=this["webpackJsonpgoit-react-pg"]||[]).push([[0],{4:function(e,t,r){"use strict";r.r(t);var o=r(0),a=r.n(o),c=r(2),n=r.n(c),s=(r(9),r(3)),g=a.a.createElement("a",{href:"reactjs.org",target:"_blank"},"\u0421\u0441\u044b\u043b\u043e\u0447\u043a\u0430"),l=Object(s.jsx)("a",{href:"reactjs.org",children:"\u0421\u0441\u044b\u043b\u043a\u04302"});console.log(g),console.log(l),n.a.render(g,document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.265f1eb3.chunk.js.map
